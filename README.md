@@ -7,7 +7,6 @@
 🛠️ Atualmente estudando JavaScript, React, React Native, Node.js e bancos de dados.  
 📚 Sempre aprendendo algo novo e buscando evoluir como desenvolvedora.
 
----
 
 ## Contact Me
 
@@ -17,7 +16,6 @@
 </a>
 </p>
 
----
 
 ## Skills
 
@@ -31,7 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 </p>
 
----
 
 ## GitHub Stats
 
