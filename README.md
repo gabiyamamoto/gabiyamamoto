@@ -34,7 +34,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabiyamamoto&theme=radical" />
 
----
 
 ## GitHub Activity Graph
 
