@@ -1,22 +1,29 @@
-# Hello, I'm Gabiyamamoto!
+# Projeto Incrível
 
-Welcome to my GitHub profile! 👋
+![Badge de Qualidade](https://img.shields.io/badge/Qualidade-Alta-brightgreen)
+![Badge de Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-## About Me
-- 🎓 I am a passionate software developer with a keen interest in building innovative solutions.
-- 💼 Currently, I am working on several exciting projects that leverage the latest technologies.
-- 🌱 I continuously work on enhancing my skills and embracing new challenges.
+## Estatísticas do Projeto
 
-## Skills
-- 💻 Programming Languages: Python, JavaScript, Java
-- 🌐 Web Technologies: HTML, CSS, React, Node.js
-- 🛠️ Tools & Platforms: Git, Docker, AWS
+- **Contribuidores:** 5
+- **Commits:** 150
+- **Issues abertas:** 7
+- **Pull requests:** 3
 
-## Projects
-- 🚀 [Project One](https://github.com/gabiyamamoto/project-one): A brief description of what this project does.
-- 🎨 [Project Two](https://github.com/gabiyamamoto/project-two): A brief description of what this project does.
+## Visão Geral
 
-## Connect with Me
-- 💬 Feel free to reach out via [Twitter](https://twitter.com/gabiyamamoto) or [LinkedIn](https://www.linkedin.com/in/gabiyamamoto).
+Este projeto é uma demonstração de como criar README.md interativos utilizando animações e elementos visuais. Abaixo estão algumas animações para visualizar a interação:
 
-Thank you for visiting my profile!
+![Animação de Exemplo](https://media.giphy.com/media/3o7TKSj1eU6No0MkZy/giphy.gif)
+
+## Como Contribuir
+
+1. Faça um Fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/SuaFeature`)
+3. Commit suas alterações (`git commit -m 'Adicionando uma nova feature'`)
+4. Push para a branch (`git push origin feature/SuaFeature`)
+5. Abra um Pull Request
+
+## Agradecimentos
+
+Agradecemos a todos os contribuidores que tornam este projeto incrível! Vamos juntos transformar ideias em realidade!
